@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
     <NetworkLink>
     <Link>
-      <href> [your_source_kml_link] </href>
+      <href>https://raw.githubusercontent.com/sochdc/gapifiles/main/allendale.kml</href>
       <refreshMode>onInterval</refreshMode>
       <refreshInterval>300</refreshInterval>
     </Link>
