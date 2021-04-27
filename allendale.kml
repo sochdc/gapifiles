@@ -1,5 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
+    <NetworkLink>
+    <Link>
+      <href> [your_source_kml_link] </href>
+      <refreshMode>onInterval</refreshMode>
+      <refreshInterval>300</refreshInterval>
+    </Link>
+  </NetworkLink>
     <Document>
         <Style id="transBluePoly">
             <LineStyle>
