@@ -1,9 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
     <Document>
+  
         <Style id="transBluePoly">
             <LineStyle>
-                <color>ffff00ff</color>
+                <color>ff008cff</color>
                 <width>2</width>
             </LineStyle>
             <PolyStyle>
